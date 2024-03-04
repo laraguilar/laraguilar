@@ -1,4 +1,4 @@
-### Oiee, eu sou a Lara!
+### Hi, I'm Lara!
 
 <div align="center">
   <a href="https://github.com/laraguilar">
