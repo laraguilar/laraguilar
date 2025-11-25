@@ -45,5 +45,10 @@ I'm a **Full-Stack Developer** from Brazil, passionate about building performant
 ---
 
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/laraaguilar/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:lara.aguilaramorim@gmail.com)
+<a href="https://www.linkedin.com/in/laraaguilar/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:lara.aguilaramorim@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff" alt="Email"/>
+</a>
