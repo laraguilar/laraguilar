@@ -1,6 +1,6 @@
 # Hi there, I'm Lara! 👩‍💻
 
-I'm a **Full-Stack Developer** from Brazil, passionate about building performant web applications and connecting great UI/UX with solid engineering.
+I'm a **Full-Stack Developer** from Brazil, passionate about building performant web applications with solid engineering.
 
 ---
 
